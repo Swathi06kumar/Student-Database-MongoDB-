@@ -1,0 +1,1009 @@
+[{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b5539a"
+  },
+  "name": "Aurelia Menendez",
+  "scores": {
+    "score": 52.79790691903873,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b5539b"
+  },
+  "name": "Bao Ziglar",
+  "scores": {
+    "score": 42.26147058804812,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b5539c"
+  },
+  "name": "Wilburn Spiess",
+  "scores": {
+    "score": 44.87186330181261,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b5539d"
+  },
+  "name": "Salena Olmos",
+  "scores": {
+    "score": 42.48780666956811,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b5539e"
+  },
+  "name": "Denisha Cast",
+  "scores": {
+    "score": 45.61876862259409,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b5539f"
+  },
+  "name": "Denisha Cast",
+  "scores": {
+    "score": 55.90835657173456,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a0"
+  },
+  "name": "Quincy Danaher",
+  "scores": {
+    "score": 54.29841278520669,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a1"
+  },
+  "name": "Tambra Mercure",
+  "scores": {
+    "score": 45.03178973642521,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a2"
+  },
+  "name": "Gisela Levin",
+  "scores": {
+    "score": 44.51211101958831,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a3"
+  },
+  "name": "Tressa Schwing",
+  "scores": {
+    "score": 42.17439799514388,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a4"
+  },
+  "name": "Rosana Vales",
+  "scores": {
+    "score": 46.2289476258328,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a5"
+  },
+  "name": "Tamika Schildgen",
+  "scores": {
+    "score": 45.65432764125526,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a6"
+  },
+  "name": "Jonie Raby",
+  "scores": {
+    "score": 44.39605672647002,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a7"
+  },
+  "name": "Edgar Sarkis",
+  "scores": {
+    "score": 58.71180464203724,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a8"
+  },
+  "name": "Gwyneth Garling",
+  "scores": {
+    "score": 48.36644963899371,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553a9"
+  },
+  "name": "Kaila Deibler",
+  "scores": {
+    "score": 56.93965183412178,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553aa"
+  },
+  "name": "Richelle Siemers",
+  "scores": {
+    "score": 56.12615074082559,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ab"
+  },
+  "name": "Kayce Kenyon",
+  "scores": {
+    "score": 44.62441703708117,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ac"
+  },
+  "name": "Terica Brugger",
+  "scores": {
+    "score": 42.1011312120801,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ad"
+  },
+  "name": "Terica Brugger",
+  "scores": {
+    "score": 41.73654145887228,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ae"
+  },
+  "name": "Lady Lefevers",
+  "scores": {
+    "score": 48.42527123437286,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553af"
+  },
+  "name": "Danika Loeffler",
+  "scores": {
+    "score": 41.75962115078149,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b0"
+  },
+  "name": "Danika Loeffler",
+  "scores": {
+    "score": 55.70195462204016,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b1"
+  },
+  "name": "Chad Rahe",
+  "scores": {
+    "score": 40.84572027366789,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b2"
+  },
+  "name": "Joaquina Arbuckle",
+  "scores": {
+    "score": 40.48858382583742,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b3"
+  },
+  "name": "Joaquina Arbuckle",
+  "scores": {
+    "score": 51.51393116681172,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b4"
+  },
+  "name": "Grady Zemke",
+  "scores": {
+    "score": 51.91561300267121,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b5"
+  },
+  "name": "Grady Zemke",
+  "scores": {
+    "score": 50.08349374829509,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b6"
+  },
+  "name": "Vina Matsunaga",
+  "scores": {
+    "score": 51.38190070034149,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b7"
+  },
+  "name": "Vina Matsunaga",
+  "scores": {
+    "score": 46.27059093183421,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b8"
+  },
+  "name": "Rubie Winton",
+  "scores": {
+    "score": 46.32426882511162,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553b9"
+  },
+  "name": "Gena Riccio",
+  "scores": {
+    "score": 42.93471779899529,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ba"
+  },
+  "name": "Kim Xu",
+  "scores": {
+    "score": 57.32983091095816,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553bb"
+  },
+  "name": "Merissa Mann",
+  "scores": {
+    "score": 52.56522605123723,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553bc"
+  },
+  "name": "Jenise Mcguffie",
+  "scores": {
+    "score": 40.15210496060384,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553bd"
+  },
+  "name": "Jenise Mcguffie",
+  "scores": {
+    "score": 51.58720341010564,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553be"
+  },
+  "name": "Harriett Velarde",
+  "scores": {
+    "score": 46.24926696413032,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553bf"
+  },
+  "name": "Devorah Smartt",
+  "scores": {
+    "score": 55.66005349294464,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c0"
+  },
+  "name": "Tonia Surace",
+  "scores": {
+    "score": 41.34308724166419,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c1"
+  },
+  "name": "Adrien Renda",
+  "scores": {
+    "score": 57.24794864351232,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c2"
+  },
+  "name": "Efrain Claw",
+  "scores": {
+    "score": 55.41266579085205,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c3"
+  },
+  "name": "Mariela Sherer",
+  "scores": {
+    "score": 52.75657259917104,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c4"
+  },
+  "name": "Timothy Harrod",
+  "scores": {
+    "score": 49.06010347848443,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c5"
+  },
+  "name": "Rae Kohout",
+  "scores": {
+    "score": 55.81549538273672,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c6"
+  },
+  "name": "Rae Kohout",
+  "scores": {
+    "score": 59.13566011309437,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c7"
+  },
+  "name": "Brain Lachapelle",
+  "scores": {
+    "score": 45.01802394825918,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c8"
+  },
+  "name": "Toshiko Sabella",
+  "scores": {
+    "score": 42.80331214002496,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553c9"
+  },
+  "name": "Cassi Heal",
+  "scores": {
+    "score": 43.04310994985133,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ca"
+  },
+  "name": "Osvaldo Hirt",
+  "scores": {
+    "score": 41.77986504201782,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553cb"
+  },
+  "name": "Maren Scheider",
+  "scores": {
+    "score": 59.46326216544371,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553cc"
+  },
+  "name": "Jaclyn Morado",
+  "scores": {
+    "score": 56.78470387064279,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553cd"
+  },
+  "name": "Jaclyn Morado",
+  "scores": {
+    "score": 47.48518298423097,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ce"
+  },
+  "name": "Demarcus Audette",
+  "scores": {
+    "score": 47.42608580155614,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553cf"
+  },
+  "name": "Demarcus Audette",
+  "scores": {
+    "score": 44.83416623719906,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d0"
+  },
+  "name": "Tania Hulett",
+  "scores": {
+    "score": 53.8568257735492,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d1"
+  },
+  "name": "Mercedez Garduno",
+  "scores": {
+    "score": 49.52877007656483,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d2"
+  },
+  "name": "Mercedez Garduno",
+  "scores": {
+    "score": 44.55505066212384,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d3"
+  },
+  "name": "Karry Petrarca",
+  "scores": {
+    "score": 40.39799056667404,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d4"
+  },
+  "name": "Mikaela Meidinger",
+  "scores": {
+    "score": 59.52298111997963,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d5"
+  },
+  "name": "Flora Duell",
+  "scores": {
+    "score": 40.68238966626067,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d6"
+  },
+  "name": "Flora Duell",
+  "scores": {
+    "score": 46.77972040308903,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d7"
+  },
+  "name": "Nobuko Linzey",
+  "scores": {
+    "score": 58.58331128403415,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d8"
+  },
+  "name": "Nobuko Linzey",
+  "scores": {
+    "score": 47.44831568815929,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553d9"
+  },
+  "name": "Gennie Ratner",
+  "scores": {
+    "score": 53.11174468047395,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553da"
+  },
+  "name": "Corliss Zuk",
+  "scores": {
+    "score": 53.02642890026489,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553db"
+  },
+  "name": "Bao Ziglar",
+  "scores": {
+    "score": 52.75139192596129,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553dc"
+  },
+  "name": "Wilburn Spiess",
+  "scores": {
+    "score": 52.36963021569788,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553dd"
+  },
+  "name": "Salena Olmos",
+  "scores": {
+    "score": 44.71135559183793,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553de"
+  },
+  "name": "Sanda Ryba",
+  "scores": {
+    "score": 57.10297055409504,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553df"
+  },
+  "name": "Marcus Blohm",
+  "scores": {
+    "score": 48.87355812474999,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e0"
+  },
+  "name": "Quincy Danaher",
+  "scores": {
+    "score": 40.53136904234401,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e1"
+  },
+  "name": "Alix Sherrill",
+  "scores": {
+    "score": 43.67436243299881,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e2"
+  },
+  "name": "Tambra Mercure",
+  "scores": {
+    "score": 47.64776674251425,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e3"
+  },
+  "name": "Dodie Staller",
+  "scores": {
+    "score": 52.16051124848157,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e4"
+  },
+  "name": "Verdell Sowinski",
+  "scores": {
+    "score": 47.66457425945161,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e5"
+  },
+  "name": "Tressa Schwing",
+  "scores": {
+    "score": 54.53947018434061,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e6"
+  },
+  "name": "Edgar Sarkis",
+  "scores": {
+    "score": 58.75598946266268,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e7"
+  },
+  "name": "Laureen Salomone",
+  "scores": {
+    "score": 42.54322973844196,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e8"
+  },
+  "name": "Gwyneth Garling",
+  "scores": {
+    "score": 44.29553481758053,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553e9"
+  },
+  "name": "Sadie Jernigan",
+  "scores": {
+    "score": 44.94102013771302,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ea"
+  },
+  "name": "Synthia Labelle",
+  "scores": {
+    "score": 41.1722010153017,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553eb"
+  },
+  "name": "Richelle Siemers",
+  "scores": {
+    "score": 52.0158789874646,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ec"
+  },
+  "name": "Mariette Batdorf",
+  "scores": {
+    "score": 51.59702098442595,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ed"
+  },
+  "name": "Aleida Elsass",
+  "scores": {
+    "score": 42.89558347656537,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ee"
+  },
+  "name": "Kayce Kenyon",
+  "scores": {
+    "score": 54.00824880446614,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553ef"
+  },
+  "name": "Ernestine Macfarland",
+  "scores": {
+    "score": 51.67453757397309,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553f0"
+  },
+  "name": "Kurtis Jiles",
+  "scores": {
+    "score": 54.8262895255851,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553f1"
+  },
+  "name": "Barbera Lippman",
+  "scores": {
+    "score": 57.39236107118298,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553f2"
+  },
+  "name": "Barbera Lippman",
+  "scores": {
+    "score": 56.36039761834183,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1d76999b4d15b553f3"
+  },
+  "name": "Alica Pasley",
+  "scores": {
+    "score": 41.3852820348269,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553f4"
+  },
+  "name": "Elizabet Kleine",
+  "scores": {
+    "score": 45.42989961046475,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553f5"
+  },
+  "name": "Elizabet Kleine",
+  "scores": {
+    "score": 59.29421526983006,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553f6"
+  },
+  "name": "Malisa Jeanes",
+  "scores": {
+    "score": 40.68676040665008,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553f7"
+  },
+  "name": "Malisa Jeanes",
+  "scores": {
+    "score": 52.60826688242043,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553f8"
+  },
+  "name": "Joel Rueter",
+  "scores": {
+    "score": 43.70843975739338,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553f9"
+  },
+  "name": "Tresa Sinha",
+  "scores": {
+    "score": 52.22632020277269,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553fa"
+  },
+  "name": "Vinnie Auerbach",
+  "scores": {
+    "score": 57.26312067710243,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553fb"
+  },
+  "name": "Dusti Lemmond",
+  "scores": {
+    "score": 50.37682668957234,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553fc"
+  },
+  "name": "Dusti Lemmond",
+  "scores": {
+    "score": 51.53939113583016,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553fd"
+  },
+  "name": "Vina Matsunaga",
+  "scores": {
+    "score": 56.31150858550771,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553fe"
+  },
+  "name": "Whitley Fears",
+  "scores": {
+    "score": 57.14851257871499,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b553ff"
+  },
+  "name": "Kim Xu",
+  "scores": {
+    "score": 56.64965514703727,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55400"
+  },
+  "name": "Harriett Velarde",
+  "scores": {
+    "score": 41.47988283148075,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55401"
+  },
+  "name": "Kam Senters",
+  "scores": {
+    "score": 49.8822537074033,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55402"
+  },
+  "name": "Kam Senters",
+  "scores": {
+    "score": 45.29515361387067,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55403"
+  },
+  "name": "Leola Lundin",
+  "scores": {
+    "score": 41.12327471818652,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55404"
+  },
+  "name": "Len Treiber",
+  "scores": {
+    "score": 44.8228929481132,
+    "type": "homework"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55405"
+  },
+  "name": "Mariela Sherer",
+  "scores": {
+    "score": 47.67196715489599,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55406"
+  },
+  "name": "Mariela Sherer",
+  "scores": {
+    "score": 41.55743490493954,
+    "type": "quiz"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55407"
+  },
+  "name": "Linnie Weigel",
+  "scores": {
+    "score": 52.44578368517977,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55408"
+  },
+  "name": "Santiago Dollins",
+  "scores": {
+    "score": 52.04052571137036,
+    "type": "exam"
+  }
+},{
+  "_id": {
+    "$oid": "63b75a1e76999b4d15b55409"
+  },
+  "name": "Rae Kohout",
+  "scores": {
+    "score": 49.61295450928224,
+    "type": "quiz"
+  }
+}]
